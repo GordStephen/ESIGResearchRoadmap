@@ -1,0 +1,24 @@
+{
+    "Physical" : {
+        "Energy Vectors": ["Thermal", "Electricity", "Fuels"],
+        "Infrastructure": ["Data & Communication", "Transport", "Power",
+                           "Gas", "Water"],
+        "Spatial": ["House", "Neighbourhood", "City", "Subnational",
+                    "National", "Continental", "Global"],
+        "Temporal": ["Seconds", "Minutes", "Hours", "Seasons", "Years",
+                     "Decades", "Centuries"]
+    },
+    "Institutional": {
+        "Platforms": ["Policy", "Markets", "Regulation"],
+        "Criteria": ["Societal Impacts", "Financial Cost", "Economy",
+                     "Pollution"]
+    },
+    "Societal": {
+        "Actors": ["Consumers", "Local Government", "State Government",
+                   "Federal Government", "Investors", "Regulators",
+                   "Utilities", "System Operators", "Researchers",
+                   "Funding Agencies", "UN"],
+        "Modalities": ["Lobbying", "Adoption Rates", "Investment Decisions",
+                       "Behavioural Changes"]
+    }
+}
